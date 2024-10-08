@@ -1,0 +1,3 @@
+echo "..............🚀 Starting lint-staged to lint and format files ( prettier ).............."
+npx lint-staged
+echo ✅ ..............All linting and formatting tasks completed successfully!..............
